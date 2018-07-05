@@ -73,3 +73,6 @@ Index of colors available in STATA
 
 
 
+
+This repo is not affiliated with Stata. 
+Stata is a registered trademark of StataCorp LP.
