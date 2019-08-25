@@ -1,5 +1,6 @@
 # stata-colors
 Index of colors available in STATA
+![Screenshot](img.png)
 
 | 	STATA name	| 	RGB value	| 	Hex	 |
 | ------------- |:-------------:| -----:|						
